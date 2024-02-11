@@ -1,0 +1,8 @@
+name: CompressedItems
+version: '${project.version}'
+main: org.info_0.compresseditems.CompressedItems
+api-version: '1.19'
+folia-supported: true
+commands:
+  givecompresseditem:
+    description: "test"
